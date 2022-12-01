@@ -74,27 +74,19 @@
 
 ### Frontend features updated
 
-- Added main components to the project
-- Updated form
-- updated timeline
-- Adding tailwind css to dependencies
-- Finished select role box
-- Added workflow
-- Fixed icons
+- Added main components to the project.
+- Added LinkedIn and Github links to the project.
+- Adding CSS styling to main components such as font, color, padding etc.
+- Added image src files to make it presentable.
 
 ### Backend features updated
 
-- Added 4 API requests  
-- Added views to the database
-- Added new branches for endpoints
-- Token is generated
-- Generate JWT token
-- All 4 requests were tested on Postman API
-- team types and team roles controller and router were created
+- Adding tailwind css to dependencies.
+- Create server to run application.
+- fixing image src errors.
+- General bugfixing.
 
-### Frontend and Backend connectivity
 
-- Authentication login page
 
 ---
 ## List all the features of the project
@@ -103,43 +95,14 @@
 
 ### Main form components
 
-- Apprenticeship Title
-- Company Description
-- Apprenticeship Description
-- Introduction
-- Team Types
-- Team Roles
-- Team Admin
-- Timeline
+- About component
+- Nav component
+- Project component
+- Skills component
+- Index.JS file
+- globals.css
+
 
 ---
 
 
-`
-function Form() {
-  return (
-    
-        <div className='bottom'>
-            <ApprenticeshipTitle />
-            <CompanyDescription />
-            <ApprenticeshipDescription />
-            <Introduction />
-            <TeamType />
-            <TeamRoles />
-            <TeamAdmin />
-            <Timeline />
-        </div>  
-  )
-`
-
----
-
-### Side bar components
-
-- Dashboard
-- Apprenticeship
-- Internship
-- Jobs
-- Settings
-
----
