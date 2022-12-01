@@ -91,16 +91,12 @@ continuous improvement and am always willing to learn and grow.
           <div id="portfolio">
             <h3 className="text-3xl py-1 dark:text-white ">Github Profile</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Since the beginning of my journey as a Software designer and
-              developer, I've done a web application for companies
-              <span className="text-teal-500"> agencies </span>
-              consulted for <span className="text-teal-500">startups </span>
-              and collaborated with talanted people to create digital products
-              for both business and consumer use.
+             Please feel free to have a look at my projects that I have created and worked
+             with talented people to showcase my development skills and creativity.
+
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              I offer from a wide range of services, including logo design,
-              programming and web application.
+               I look forward to collaborating with you at Sovtech Technologies
             </p>
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
@@ -114,8 +110,8 @@ continuous improvement and am always willing to learn and grow.
                 layout="responsive"
             
               />
-              <b>Group project :Attendance Fingerprint Authentication System, for capturing employee fingerprint attendance, developed with C#, Esp32, arduino IDE, C++, MySQL.</b>
-              <span className="text-teal-500"><Link href="https://github.com/Tech-Army-Shared/TechArmy">Visit Here</Link> </span>
+              
+              <span className="text-teal-500"><Link href="https://github.com/kyl88">Click Here To Access my GitHub Account</Link> </span>
             </div>
           
          
