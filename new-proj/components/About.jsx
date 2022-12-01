@@ -16,7 +16,7 @@ const About = () => {
       </p>
 
       <h3 className="text-3xl py-1 dark:text-white ">
-        Why you want to be a developer at SovTech ?
+        Why you want to be a Developer at SovTech ?
       </h3>
       
     
@@ -30,8 +30,7 @@ const About = () => {
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
         Secondly, I see this as an opportunity for me to grow in IT. I
         want to join Sovtech because I have a strong passion for joining
-        your development team, and team- working as become one of my
-        passions by working together to build a goal for the company.
+        your development team where I can showcase my skills and expertise.
       </p>
 
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
