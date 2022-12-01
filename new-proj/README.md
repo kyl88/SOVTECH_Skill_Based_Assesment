@@ -1,11 +1,11 @@
-# RadicalX-Apprenticeship Web Application
+# SovTech Graduate Program
 ---
-## Apprenticeship flow
+## Next JS Web Application 
 ---
 ## Objectives
 ---
 
-### The company must be able to set up an apprenticeship program on RadicalX and successfully hire a team on contractual basis.
+### Create a static single page application using React. You can use any modern React framework, such as Next.JS or CRA and It should have a home page that tells us a bit about yourself and why you want to be a developer at SovTech.
 
 ---
 
@@ -13,64 +13,57 @@
 ## Tech stack used
 
 - React JS (Front-end)
-- Node JS (Backend)
-- Postman API (Testing of API's)
+- Next JS (Front-end/Back-end)
+- Vercel (Deployment)
 
 ---
 
 ## Main build
 
-- Vite build
+- Next JS Build
 
-`"scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "test": "vitest"
-  },`
+`"dependencies": {
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
+    "next": "13.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  `
   
 ---
 ## Dependencies
 
-- axios
-- babel
-- bootstrap
-- flowbite
+- eslint
 - react
-- SVG image components
+- next
 - Tailwind css (css dependencies)
 
 
 `
- "dependencies": {
-    "@emotion/react": "^11.10.4",
-    "@emotion/styled": "^11.10.4",
-    "@fortawesome/fontawesome-svg-core": "^6.2.0",
-    "@fortawesome/free-regular-svg-icons": "^6.2.0",
-    "@fortawesome/free-solid-svg-icons": "^6.2.0",
-    "@fortawesome/react-fontawesome": "^0.2.0",
-    "@material-tailwind/react": "^1.2.4",
-    "@mui/material": "^5.10.8",
-    "@mui/x-date-pickers-pro": "^5.0.4",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/user-event": "^14.4.3",
-    "alpinejs": "^3.10.4",
-    "axios": "^1.1.2",
-    "babel-plugin-macros": "^3.1.0",
-    "bootstrap": "^5.2.2",
-    "boxicons": "^2.1.4",
-    "dayjs": "^1.11.5",
-    "flowbite": "^1.5.3",
-    "flowbite-react": "^0.1.11",
-    "font-awesome": "^4.7.0",
-    "react": "^18.2.0",
-    "react-bootstrap": "^2.5.0",
-    "react-date-range": "^1.4.0",
-    "react-dom": "^18.2.0",
-    "react-icon": "^1.0.0",
-    "react-icons": "^4.4.0",
-    "react-router-dom": "^6.4.2"
+ {
+  "name": "new-proj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
+  "dependencies": {
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
+    "next": "13.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4"
+  }
+}
 `
 
 ---
@@ -81,7 +74,7 @@
 
 ### Frontend features updated
 
-- Updated menu bar
+- Added main components to the project
 - Updated form
 - updated timeline
 - Adding tailwind css to dependencies
