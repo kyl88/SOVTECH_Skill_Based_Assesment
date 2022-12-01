@@ -10,12 +10,8 @@ const About = () => {
     <div id="about">
       <h3 className="text-3xl py-1 dark:text-white ">About Me</h3>
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-      I am a driven South African Indian professional with experience in the Manufacturing and 
-Business fields and keen interest in Software Development. I am extremely hardworking, 
-motivated, organized and dependable. I wish to expand my career by developing new skills
-as well as contributing ideas to potential employers. I am a strong believer in teamwork, have 
-a passion for quality, solid planning skills and strong analytical abilities I am committed to 
-continuous improvement and am always willing to learn and grow.
+      I consider myself to be a friendly and approachable person. 
+      I am always willing to lend a helping hand and to share my knowledge as well as to listen to and learn from others. 
         <br></br>
       </p>
 
@@ -23,28 +19,8 @@ continuous improvement and am always willing to learn and grow.
         Why you want to be a developer at SovTech ?
       </h3>
       
-      <div>
-      
-         <p>Customer Service Development</p>
-         <p>Mobile and Cross-Platform App Development</p>
-         <p>Product and Interface Design</p>
-         <p>Elite Cloud Hosting</p>
-         <p>Software and App Maintaince</p>
+    
 
-     
-     
-      </div>
-
-
-      <div>
-      <ul classname='lowercase'>
-         <li><p>Mentor Support For The Duration Of The Programme</p></li>
-         <li><p>Continued Support</p></li>
-         <li>Product Diversity And The Opportunity To Take Full Responsibility</li>
-        
-      </ul>
-     
-      </div>
 
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
       I am a hard worker and able to work on my own or in a team. I am always willing to learn and can become familiar with new languages and concepts easily. 
@@ -69,6 +45,20 @@ continuous improvement and am always willing to learn and grow.
         with my skill in transforming SovTech to meet the future goal and
         that’s my dream
       </p>
+
+      <div>
+      
+      <p>Customer Service Development</p>
+      <p>Mobile and Cross-Platform App Development</p>
+      <p>Product and Interface Design</p>
+      <p>Elite Cloud Hosting</p>
+      <p>Software and App Maintaince</p>
+      <p>Mentor Support For The Duration Of The Programme</p>
+      <p>Continued Support</p>
+      <p> Product Diversity And The Opportunity To Take Full Responsibility</p>
+  
+  
+   </div>
 
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
         <b>I offer from a wide range of services, including brand design,
