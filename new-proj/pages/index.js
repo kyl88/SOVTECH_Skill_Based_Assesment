@@ -89,7 +89,7 @@ continuous improvement and am always willing to learn and grow.
         
         <section className="py-10">
           <div id="portfolio">
-            <h3 className="text-3xl py-1 dark:text-white ">Projects</h3>
+            <h3 className="text-3xl py-1 dark:text-white ">Github Profile</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a Software designer and
               developer, I've done a web application for companies
@@ -104,28 +104,7 @@ continuous improvement and am always willing to learn and grow.
             </p>
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
-            <div className="basis-1/3 flex-1 ">
-              <Image
-                className="rounded-lg object-cover hover:opacity-10"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-               
-              />
-              <b>WHS, Whatshappenning sir is a multivendor e-commerse website developed with HTML,CSS,JAVASCRIPT, AJAX, PHP, SQL, JQuery</b>
-              <span className="text-teal-500"><Link href="http://whatshappeningsir.co.za/">Visit Here</Link> </span>
-            </div>
-            <div className="basis-1/3 flex-1">
-              <Image
-                className="rounded-lg object-cover hover:opacity-10"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-             
-              />
-               <b>AWACC is a medical aids research website</b>
-              <span className="text-teal-500"><Link href="https://awacc.org/">Visit Here</Link> </span>
-            </div>
+           
 
             <div className="basis-1/3 flex-1">
               <Image
