@@ -24,14 +24,14 @@ continuous improvement and am always willing to learn and grow.
       </h3>
       
       <div>
-      <ul classname='lowercase'>
-         <li><p>Customer Service Development</p></li>
-         <li><p>Mobile and Cross-Platform App Development</p></li>
-         <li>Product and Interface Design</li>
-         <li>Elite Cloud Hosting</li>
-         <li>Software and App Maintaince</li>
+      
+         <p>Customer Service Development</p>
+         <p>Mobile and Cross-Platform App Development</p>
+         <p>Product and Interface Design</p>
+         <p>Elite Cloud Hosting</p>
+         <p>Software and App Maintaince</p>
 
-      </ul>
+     
      
       </div>
 
@@ -47,17 +47,8 @@ continuous improvement and am always willing to learn and grow.
       </div>
 
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-        I will love to work for Company like SovTech because its heart of
-        essence includes Diversity, equity, and inclusion which means a
-        lot, and in teams of the culture of the company, SovTech has
-        proved enough in how they value their customer as well as their
-        employee. I firmly believe in taking a collaborative approach to
-        each project so when I saw a position with your company to join
-        the production team I knew I had to apply. I've seen your work in
-        theatrical production because I saw teamwork in action. I love
-        working with a team to achieve a common goal, and I know my
-        background in production has prepared me for this role. I look
-        forward to becoming a valued contributor to this phenomenal team.
+      I am a hard worker and able to work on my own or in a team. I am always willing to learn and can become familiar with new languages and concepts easily. 
+      My main strengths come from always having a “can-do” attitude and being able to do the necessary research needed to learn new things and figure out solutions to problems. 
       </p>
 
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">

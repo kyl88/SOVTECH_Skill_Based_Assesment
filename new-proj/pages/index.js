@@ -12,6 +12,7 @@ import Image from "next/image";
 
 
 import About from "../components/About";
+import Skills from "../components/Skills";
 
 
 import Nav from "../components/Nav";
@@ -74,21 +75,21 @@ continuous improvement and am always willing to learn and grow.
               <AiFillYoutube />
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              
+            <Image src='/../public/assets/cover-photo.jpg' layout="fill" objectFit="cover" />
             </div>
           </div>
         </section>
         
-
-        <br></br>
-        <br></br>
         <About/>
-        
+        <br></br>
+        <br></br>
       
-
+        
+        <Skills/>
+        
         <section className="py-10">
           <div id="portfolio">
-            <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
+            <h3 className="text-3xl py-1 dark:text-white ">Projects</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a Software designer and
               developer, I've done a web application for companies
