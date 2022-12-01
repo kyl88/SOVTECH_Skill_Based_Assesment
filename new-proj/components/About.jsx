@@ -35,14 +35,9 @@ const About = () => {
 
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
         Also, Another that got interested because it is a IT Graduate
-        position, and love creating a application such as a web
-        application, desktop app both frontend and backend C#, Java and
-        other programming language am really good in that as well at
-        SovTech is a company that works well with the team, and I love
-        working as a team-working because I believe once we come together
-        as one we make the dreams work. I really want to provide the best
-        with my skill in transforming SovTech to meet the future goal and
-        that’s my dream
+        position, and love creating an application that meets Customer
+        expectations and archieve high quality standards which strengthen
+        business relations with the company stakeholders at hand.
       </p>
 
       <div>

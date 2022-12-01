@@ -1,34 +1,152 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RadicalX-Apprenticeship Web Application
+---
+## Apprenticeship flow
+---
+## Objectives
+---
 
-## Getting Started
+### The company must be able to set up an apprenticeship program on RadicalX and successfully hire a team on contractual basis.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech stack used
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- React JS (Front-end)
+- Node JS (Backend)
+- Postman API (Testing of API's)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Main build
 
-## Learn More
+- Vite build
 
-To learn more about Next.js, take a look at the following resources:
+`"scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },`
+  
+---
+## Dependencies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- axios
+- babel
+- bootstrap
+- flowbite
+- react
+- SVG image components
+- Tailwind css (css dependencies)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+`
+ "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@material-tailwind/react": "^1.2.4",
+    "@mui/material": "^5.10.8",
+    "@mui/x-date-pickers-pro": "^5.0.4",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/user-event": "^14.4.3",
+    "alpinejs": "^3.10.4",
+    "axios": "^1.1.2",
+    "babel-plugin-macros": "^3.1.0",
+    "bootstrap": "^5.2.2",
+    "boxicons": "^2.1.4",
+    "dayjs": "^1.11.5",
+    "flowbite": "^1.5.3",
+    "flowbite-react": "^0.1.11",
+    "font-awesome": "^4.7.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^18.2.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.4.2"
+  },
+`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Frontend / Backend code review
+
+### Frontend features updated
+
+- Updated menu bar
+- Updated form
+- updated timeline
+- Adding tailwind css to dependencies
+- Finished select role box
+- Added workflow
+- Fixed icons
+
+### Backend features updated
+
+- Added 4 API requests  
+- Added views to the database
+- Added new branches for endpoints
+- Token is generated
+- Generate JWT token
+- All 4 requests were tested on Postman API
+- team types and team roles controller and router were created
+
+### Frontend and Backend connectivity
+
+- Authentication login page
+
+---
+## List all the features of the project
+
+---
+
+### Main form components
+
+- Apprenticeship Title
+- Company Description
+- Apprenticeship Description
+- Introduction
+- Team Types
+- Team Roles
+- Team Admin
+- Timeline
+
+---
+
+
+`
+function Form() {
+  return (
+    
+        <div className='bottom'>
+            <ApprenticeshipTitle />
+            <CompanyDescription />
+            <ApprenticeshipDescription />
+            <Introduction />
+            <TeamType />
+            <TeamRoles />
+            <TeamAdmin />
+            <Timeline />
+        </div>  
+  )
+`
+
+---
+
+### Side bar components
+
+- Dashboard
+- Apprenticeship
+- Internship
+- Jobs
+- Settings
+
+---
