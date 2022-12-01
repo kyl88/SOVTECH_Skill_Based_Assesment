@@ -151,7 +151,7 @@ continuous improvement and am always willing to learn and grow.
         >
           Copyright 2022{' '}
           <span >
-            <Image className="img" src="" alt="SovTech" width="75" height="16"/>
+            <Image  src="/../public/assets/SovTech-Small.png" alt="SovTech" width="75" height="16"/>
           </span>
         </a>
       </footer>

@@ -61,8 +61,7 @@ const About = () => {
    </div>
 
       <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-        <b>I offer from a wide range of services, including brand design,
-        programming and teaching.</b>
+        <b>::Let your positively create innovation and inspire others::</b>
         
       </p>
     </div>
