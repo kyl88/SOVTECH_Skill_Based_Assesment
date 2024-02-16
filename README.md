@@ -1,6 +1,6 @@
 # SOVTECH Graduate Program
 ---
-## Next JS Web Application 
+## Next JS Web Application (Master branch)
 ---
 ## Objectives
 ---
