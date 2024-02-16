@@ -1,4 +1,4 @@
-# SovTech Graduate Program
+# SOVTECH Graduate Program
 ---
 ## Next JS Web Application 
 ---
